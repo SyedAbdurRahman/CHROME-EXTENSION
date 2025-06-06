@@ -1,26 +1,105 @@
-# Productivity Chrome Extension with ReactJS
 
-A Chrome extension to improve user productivity on the browser built with ReactJS.
 
-Steps to install
+---
 
-- Clone the repository.
-- `npm install`  - To install dependencies
-- `npm build`  - To build the extension inside the build folder.
-- Go to chrome://extensions and inside select the “Load unpacked” option.
-- Before that make sure you toggle the "Developer mode" option.
-- Upload the build folder; ideally, you should see your extension in the list.
-- In your extensions list, you should see your new local extension.
-- When you open a website, open your extension; ideally, you should have the time spent on each website in the form of a list.
-- Switching to a new tab should pause the time on the first tab.
+# CHROME-EXTENSION
 
-Based on the timer set, if your time goes beyond that set timer, you should see a cat image instead of the actual DOM content. 
+**Company:** CODTECH IT SOLUTIONS
 
-Further optimizations:
-- Add a reset feature every day at night.
-- Add a manual reset button.
-- Stop calculating time spent after it has breached the timer. (Hint: You need to stop the interval inside the App component conditionally for that domain)
-  
-![Screenshot 2024-08-11 080739](https://github.com/user-attachments/assets/05af51dc-ca96-4c55-82db-2fad1b8f13a0)
+**Name:** Syed Abdur Rahman
 
-  
+**Intern ID:** CT04DM464
+
+**Domain:** React JS Web Development
+
+**Duration:** 4 Weeks
+
+**Mentor:** Neela Santosh
+
+---
+
+## 🔔 ProcrastiNo
+
+**ProcrastiNo** is a smart productivity tracker Chrome Extension designed to help users manage time effectively by monitoring their browsing activity. With time tracking, distraction blocking, and daily reports — it helps users stay focused and accountable.
+
+Built using the MERN stack, Chrome Extension APIs, and React, ProcrastiNo offers a clean user experience with seamless sync across devices.
+
+---
+
+### 🌟 Features
+
+✅ **Tracks time spent on each website**
+
+✅ **Blocks distracting sites after time limit exceeds**
+
+✅ **React-based options and popup UI**
+
+✅ **Data synced using MERN backend**
+
+✅ **Clean dark theme for UI**
+
+✅ **Realtime background tracking with Chrome Extension APIs**
+
+---
+
+![Image](https://github.com/user-attachments/assets/b11c135c-e713-44b3-9b33-477f70ddd04b)
+
+![Image](https://github.com/user-attachments/assets/f2e25da0-9708-4794-9996-0b89a1990706)
+
+![Image](https://github.com/user-attachments/assets/a404d3e5-c397-45f9-b6e9-97637fa74cd7)
+
+![Image](https://github.com/user-attachments/assets/a8558b25-6179-479e-acb3-df5b06c489c3)
+
+---
+
+### ⚙️ Getting Started
+
+
+
+#### 1. Clone the Repository
+```
+git clone https://github.com/SyedAbdurRahman/ProcrastiNo.git
+cd ProcrastiNo
+```
+
+#### 2. Install Dependencies
+```
+npm install
+```
+
+#### 3. Build the extension
+```
+npm run build
+```
+
+#### 4. Load extension into Chrome
+* Go to ```chrome://extensions/```
+* Enable Developer mode (toggle at the top right)
+* Click on Load unpacked
+* Select the generated ```build/``` folder
+
+---
+
+### 📬 Contact
+
+For any queries or feedback, feel free to contact:
+
+📧 [syed180303@gmail.com](mailto:syed180303@gmail.com)
+
+---
+
+### ⚠️ Disclaimer
+
+This project was built purely for learning purposes as part of an internship at **CodTech IT Solutions**. It utilizes publicly available tools and APIs including:
+
+* **Chrome Extension APIs**
+* **ReactJS**
+
+No commercial use is intended.
+
+---
+
+🎯 Stay focused with ProcrastiNo — because time is precious. 🕒💼
+
+---
+
