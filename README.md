@@ -42,13 +42,9 @@ Built using the MERN stack, Chrome Extension APIs, and React, ProcrastiNo offers
 
 ---
 
-![Image](https://github.com/user-attachments/assets/b11c135c-e713-44b3-9b33-477f70ddd04b)
+![Image](https://github.com/user-attachments/assets/6d5da8e7-ae4a-4d23-a9e3-41a0f5ff3674)
 
-![Image](https://github.com/user-attachments/assets/f2e25da0-9708-4794-9996-0b89a1990706)
-
-![Image](https://github.com/user-attachments/assets/a404d3e5-c397-45f9-b6e9-97637fa74cd7)
-
-![Image](https://github.com/user-attachments/assets/a8558b25-6179-479e-acb3-df5b06c489c3)
+![Image](https://github.com/user-attachments/assets/64dda092-d71f-4d54-9da4-80e6f9512572)
 
 ---
 
