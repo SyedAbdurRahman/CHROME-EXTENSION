@@ -54,8 +54,8 @@ Built using the MERN stack, Chrome Extension APIs, and React, ProcrastiNo offers
 
 #### 1. Clone the Repository
 ```
-git clone https://github.com/SyedAbdurRahman/ProcrastiNo.git
-cd ProcrastiNo
+git clone https://github.com/SyedAbdurRahman/CHROME-EXTENSION.git
+cd CHROME-EXTENSION
 ```
 
 #### 2. Install Dependencies
